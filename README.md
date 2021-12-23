@@ -1,2 +1,2 @@
 # Python Obfuscator Plugin
-A template to create you own Plugins for are Python Obfuscator
+A template to allow you to create your own plugins for our Python Obfuscator.
