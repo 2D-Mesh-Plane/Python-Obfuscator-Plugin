@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'org.madmeg'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation(files("lib/Plugin-api.jar"))
+}
